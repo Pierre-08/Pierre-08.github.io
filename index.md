@@ -1,204 +1,304 @@
-# Pierre Bertrand
-
-**Master’s student in Biology, Ecology and Evolution**  
-**University of Lille, France**
-
----
-
-## About me
-
-I am a Master’s student in **Biology, Ecology and Evolution** at the University of Lille, with a strong interest in **evolutionary ecology**, **functional diversity**, **intraspecific trait variability**, **freshwater fish ecology**, and **species conservation**.
-
-My academic background combines field ecology, biodiversity monitoring, morphometric analyses, statistical modelling, and data analysis in R. Through my internships and research projects, I have worked on freshwater fish functional traits, predator–prey interactions, marine ecology, coral reef monitoring, and conservation biology.
-
----
-
-## Research interests
-
-- Evolutionary ecology  
-- Functional diversity  
-- Intraspecific trait variability  
-- Phenotypic plasticity  
-- Local adaptation  
-- Freshwater fish ecology  
-- Community ecology  
-- Conservation biology  
-- Morphometrics  
-- Ecological responses to anthropogenic pressures  
-
----
-
-## Education
-
-### Master’s Degree in Biology, Ecology and Evolution  
-**University of Lille, France**  
-**Track:** Evolutionary Biology  
-
-During my Master’s degree, I developed strong skills in ecology, evolutionary biology, biostatistics, scientific writing, and ecological data analysis.
-
-Relevant training includes:
-
-- Evolutionary biology  
-- Community ecology  
-- Functional ecology  
-- Biostatistics  
-- Multivariate analyses  
-- Scientific communication  
-- Data analysis in R  
-
----
-
-### Bachelor’s Degree in Biology  
-**University of Lille, France**
-
-My undergraduate training provided a broad background in biological sciences, including ecology, evolution, biodiversity, physiology, molecular biology, and biostatistics.
-
----
-
-## Research experience
-
-### Master’s internship — CRBE, Toulouse, France  
-**Centre de Recherche sur la Biodiversité et l’Environnement — Team AQUAECO**  
-**Supervisors:** Aurèle Toussaint and Sébastien Brosse  
-
-My Master’s internship focused on the role of **intraspecific trait variability** in the functional diversity of freshwater fish communities from the Haut-Maroni basin in French Guiana.
-
-This project aimed to assess how individual-level morphological variability influences estimates of functional space and functional richness in tropical freshwater fish assemblages.
-
-**Main tasks**
-
-- Analysis of morphometric data from freshwater fish communities  
-- Quantification of intraspecific trait variability  
-- Functional trait analysis  
-- Comparison between individual-level and species-centroid approaches  
-- Functional diversity analyses  
-- PCA and multivariate analyses  
-- Statistical analyses in R  
-- Scientific writing and oral presentation of results  
-
-**Keywords:** freshwater fish ecology, functional diversity, morphometrics, intraspecific trait variability, French Guiana.
-
----
-
-### Research internship — Stockholm University, Sweden  
-**Department of Ecology, Environment and Plant Sciences**
-
-During this internship, I worked on predator–prey interactions and the ecological role of canopy-forming vegetation in coastal ecosystems.
-
-The project investigated how vegetation cover and predator communities influence the survival of gammarids, which are important grazers in aquatic ecosystems.
-
-**Main tasks**
-
-- Fieldwork in coastal ecosystems  
-- Experimental tethering of gammarids  
-- Analysis of predator effects  
-- Assessment of vegetation cover as a refuge habitat  
-- Statistical modelling in R  
-- Interpretation of trophic interactions in a context of environmental change  
-
-**Keywords:** predator–prey interactions, gammarids, vegetation cover, coastal ecology, trophic interactions.
-
----
-
-### Marine biology internship — Wimereux Marine Station, France  
-**UMR 8187 LOG — Oceanology and Geosciences Laboratory**
-
-This internship focused on the analysis and identification of benthic macrofauna, macroflora, and foraminifera.
-
-**Main tasks**
-
-- Sampling and identification of benthic organisms  
-- Marine biodiversity analysis  
-- Fieldwork in coastal environments  
-- Microscopy-based observation and identification  
-- Ecological interpretation of marine communities  
-
-**Keywords:** marine biology, benthic ecology, foraminifera, coastal biodiversity.
-
----
-
-### Coral reef monitoring project — Bali, Indonesia  
-**Indonesian Marine Education & Research Organisation**
-
-I participated in a project focused on the ecological impacts of discarded fishing gear on coral reefs and the development of monitoring approaches.
-
-**Main tasks**
-
-- Coral reef monitoring using SCUBA diving  
-- Identification of hard corals  
-- Nudibranch identification  
-- Field data collection  
-- Database curation  
-- Assessment of anthropogenic impacts on coral reef ecosystems  
-
-**Keywords:** coral reefs, conservation biology, SCUBA, discarded fishing gear, tropical marine ecology.
-
----
-
-## Fieldwork experience
-
-I have developed fieldwork experience in different ecological and environmental contexts, including:
-
-- Freshwater ecosystems  
-- Coastal ecosystems  
-- Marine environments  
-- Coral reef ecosystems  
-- Tropical fieldwork conditions  
-- Biodiversity monitoring  
-- Species identification  
-- Ecological data collection  
-
-Fieldwork locations include **France**, **Sweden**, and **Indonesia**.
-
----
-
-## Technical skills
-
-### Data analysis
-
-- R and RStudio  
-- Data cleaning  
-- Data visualization  
-- Statistical modelling  
-- GLM and GLMM approaches  
-- PCA and multivariate analyses  
-- Functional diversity analyses  
-
-### Scientific methods
-
-- Morphometric analysis  
-- Functional trait analysis  
-- Biodiversity monitoring  
-- Species identification  
-- Image-based measurements  
-- Database curation  
-
-### Additional skills
-
-- Bash basics  
-- Python basics  
-- Scientific writing  
-- Oral scientific communication  
-- Figure preparation  
-- Naturalist photography  
-
----
-
-## Academic involvement
-
-- Vice-president of the Biology Student Association at the University of Lille  
-- Student representative in the Biology Department  
-- Participation in academic and scientific communication activities  
-- Naturalist photography and biodiversity documentation  
-
----
-
-## Contact
-
-**Pierre Bertrand**  
-University of Lille, France  
-
-Email: your.email@example.com  
-LinkedIn: add your link here  
-GitHub: add your link here  
-ORCID: add your link here, if available  
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Pierre Bertrand</title>
+
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      background-color: #f4f7fb;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    .page {
+      max-width: 1000px;
+      margin: 40px auto;
+      background-color: white;
+      padding: 50px;
+      border-radius: 14px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    }
+
+    header {
+      border-bottom: 3px solid #1f4e79;
+      padding-bottom: 25px;
+      margin-bottom: 35px;
+    }
+
+    h1 {
+      font-size: 42px;
+      color: #1f4e79;
+      margin-bottom: 5px;
+    }
+
+    .subtitle {
+      font-size: 18px;
+      color: #555;
+      margin-top: 0;
+    }
+
+    h2 {
+      color: #1f4e79;
+      margin-top: 40px;
+      border-bottom: 1px solid #d6e0ea;
+      padding-bottom: 6px;
+    }
+
+    h3 {
+      color: #333;
+      margin-bottom: 4px;
+    }
+
+    .institution {
+      color: #555;
+      font-weight: bold;
+      margin-top: 0;
+    }
+
+    .card {
+      background-color: #f8fbff;
+      border-left: 4px solid #1f4e79;
+      padding: 18px 22px;
+      margin: 20px 0;
+      border-radius: 8px;
+    }
+
+    .keywords {
+      font-size: 14px;
+      color: #555;
+      background-color: #eef4fa;
+      padding: 8px 12px;
+      border-radius: 6px;
+    }
+
+    ul {
+      padding-left: 22px;
+    }
+
+    li {
+      margin-bottom: 5px;
+    }
+
+    .skills {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+    }
+
+    .skill-box {
+      background-color: #f8fbff;
+      padding: 15px;
+      border-radius: 8px;
+      border: 1px solid #d6e0ea;
+    }
+
+    footer {
+      margin-top: 50px;
+      padding-top: 20px;
+      border-top: 1px solid #d6e0ea;
+      color: #555;
+    }
+
+    a {
+      color: #1f4e79;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="page">
+
+    <header>
+      <h1>Pierre Bertrand</h1>
+      <p class="subtitle">
+        Master’s student in Biology, Ecology and Evolution — University of Lille, France
+      </p>
+    </header>
+
+    <section>
+      <h2>About me</h2>
+      <p>
+        I am a Master’s student in <strong>Biology, Ecology and Evolution</strong> at the
+        University of Lille, with a strong interest in evolutionary ecology, functional
+        diversity, intraspecific trait variability, freshwater fish ecology, and species
+        conservation.
+      </p>
+
+      <p>
+        My academic background combines field ecology, biodiversity monitoring, morphometric
+        analyses, statistical modelling, and data analysis in R.
+      </p>
+    </section>
+
+    <section>
+      <h2>Research interests</h2>
+      <ul>
+        <li>Evolutionary ecology</li>
+        <li>Functional diversity</li>
+        <li>Intraspecific trait variability</li>
+        <li>Phenotypic plasticity and local adaptation</li>
+        <li>Freshwater fish ecology</li>
+        <li>Community ecology and conservation biology</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+
+      <div class="card">
+        <h3>Master’s Degree in Biology, Ecology and Evolution</h3>
+        <p class="institution">University of Lille, France — Evolutionary Biology track</p>
+        <p>
+          Training in ecology, evolutionary biology, biostatistics, scientific writing,
+          multivariate analyses, and data analysis in R.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Bachelor’s Degree in Biology</h3>
+        <p class="institution">University of Lille, France</p>
+        <p>
+          Broad background in biological sciences, including ecology, evolution, biodiversity,
+          physiology, molecular biology, and biostatistics.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Research experience</h2>
+
+      <div class="card">
+        <h3>Master’s internship — CRBE, Toulouse, France</h3>
+        <p class="institution">
+          Centre de Recherche sur la Biodiversité et l’Environnement — Team AQUAECO
+        </p>
+        <p>
+          This internship focused on the role of <strong>intraspecific trait variability</strong>
+          in the functional diversity of freshwater fish communities from French Guiana.
+        </p>
+
+        <ul>
+          <li>Morphometric data analysis</li>
+          <li>Functional trait analysis</li>
+          <li>Comparison between individual-level and species-centroid approaches</li>
+          <li>PCA and multivariate analyses</li>
+          <li>Statistical analyses in R</li>
+        </ul>
+
+        <p class="keywords">
+          Keywords: freshwater fish ecology · functional diversity · morphometrics · French Guiana
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Research internship — Stockholm University, Sweden</h3>
+        <p class="institution">Department of Ecology, Environment and Plant Sciences</p>
+        <p>
+          This project investigated how vegetation cover and predator communities influence
+          the survival of gammarids in coastal ecosystems.
+        </p>
+
+        <ul>
+          <li>Fieldwork in coastal ecosystems</li>
+          <li>Experimental tethering of gammarids</li>
+          <li>Analysis of predator effects</li>
+          <li>Statistical modelling in R</li>
+        </ul>
+
+        <p class="keywords">
+          Keywords: predator–prey interactions · coastal ecology · vegetation cover · trophic interactions
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Marine biology internship — Wimereux Marine Station, France</h3>
+        <p class="institution">UMR 8187 LOG — Oceanology and Geosciences Laboratory</p>
+        <p>
+          Internship focused on benthic macrofauna, macroflora, and foraminifera identification.
+        </p>
+
+        <ul>
+          <li>Sampling and identification of benthic organisms</li>
+          <li>Marine biodiversity analysis</li>
+          <li>Microscopy-based observation and identification</li>
+        </ul>
+
+        <p class="keywords">
+          Keywords: marine biology · benthic ecology · foraminifera · coastal biodiversity
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Coral reef monitoring project — Bali, Indonesia</h3>
+        <p class="institution">Indonesian Marine Education & Research Organisation</p>
+        <p>
+          Project focused on the ecological impacts of discarded fishing gear on coral reefs
+          and the development of monitoring approaches.
+        </p>
+
+        <ul>
+          <li>Coral reef monitoring using SCUBA diving</li>
+          <li>Hard coral and nudibranch identification</li>
+          <li>Field data collection and database curation</li>
+        </ul>
+
+        <p class="keywords">
+          Keywords: coral reefs · conservation biology · SCUBA · tropical marine ecology
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Technical skills</h2>
+
+      <div class="skills">
+
+        <div class="skill-box">
+          <h3>Data analysis</h3>
+          <ul>
+            <li>R and RStudio</li>
+            <li>Data cleaning</li>
+            <li>Data visualization</li>
+            <li>Statistical modelling</li>
+            <li>GLM and GLMM approaches</li>
+          </ul>
+        </div>
+
+        <div class="skill-box">
+          <h3>Scientific methods</h3>
+          <ul>
+            <li>Morphometric analysis</li>
+            <li>Functional trait analysis</li>
+            <li>Biodiversity monitoring</li>
+            <li>Species identification</li>
+            <li>Image-based measurements</li>
+          </ul>
+        </div>
+
+      </div>
+    </section>
+
+    <footer>
+      <h2>Contact</h2>
+      <p>
+        <strong>Pierre Bertrand</strong><br>
+        University of Lille, France<br>
+        Email: your.email@example.com
+      </p>
+    </footer>
+
+  </div>
+
+</body>
+
+</html>
